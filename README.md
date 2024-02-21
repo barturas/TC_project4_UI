@@ -1,4 +1,4 @@
-![Logo](_code/img/logo.png)
+![Logo](/img/logo.png)
 
 # Audio Slice Editor
 
