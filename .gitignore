@@ -2,6 +2,7 @@
 project_1.4/
 venv/
 _docs/
+archive/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
