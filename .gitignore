@@ -1,8 +1,9 @@
 # Virtual Environment
-project_1.4/
-venv/
-_docs/
-archive/
+/project_1.4/
+/venv/
+/_docs/
+/archive/
+upload/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
